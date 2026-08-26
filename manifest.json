@@ -1,0 +1,16 @@
+{
+  "name": "Central de Transmissão",
+  "short_name": "Central TX",
+  "description": "Painel de status dos canais do YouTube e TikTok",
+  "start_url": "./painel-youtube.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#08090D",
+  "theme_color": "#08090D",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
